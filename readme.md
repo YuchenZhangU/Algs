@@ -5,6 +5,9 @@
 [Records](https://docs.google.com/spreadsheets/d/1Vkr77iEozb812HmWoK_2_p99dpylck_41VCAeOz5biw/edit#gid=1407014056)
 
 
+## 10/03/2017
+![week_1_lag](./img/2017-10-03.png)
+
 ## 09/25/2017
 ![week_1](./img/2017-09-25.png)
 
